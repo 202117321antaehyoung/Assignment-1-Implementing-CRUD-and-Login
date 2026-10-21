@@ -62,6 +62,7 @@ cd backend-spring
 백엔드를 켜 두고 새 터미널에서 실행합니다. 
 
 ```sh
+cd Assignment-1-Implementing-CRUD-and-Login
 cd frontend-vue
 npm ci
 npm run build
